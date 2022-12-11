@@ -1,4 +1,4 @@
-const colors = ["green", "red", "rgba(133,122,200)", "#f15025"];
+const colors = ["green", "red", "rgba(133,122,200)", "pink"];
 const btn = document.getElementById('btn'),
       color = document.querySelector(".color");
 
